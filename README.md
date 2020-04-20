@@ -1,5 +1,6 @@
 
-The aim of this was to be able to control an LED with a potentiometer, a dsPIC30F4011 and the MPLAB X IDE for my Microcontroller Application Group Lab (MAGL) module at university.
+This was apart of my Microcontroller Application Group Lab (MAGL) module at university.
+  
 ## The Task
 The aim of the task was to turn an LED on at 3.5v and off at 1.5v. This voltage was controlled through a potentiometer.
 
